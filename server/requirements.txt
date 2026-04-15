@@ -1,0 +1,6 @@
+FastAPI
+Uvicorn
+SQLAlchemy
+psycopg2
+python-jose
+passlib
